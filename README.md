@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamunur Rashid</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **AWS,Docker**
 
