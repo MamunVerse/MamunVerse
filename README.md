@@ -10,6 +10,3 @@
 - 📫 How to reach me **mamunurrashid6424@gmail.com**
 
 <h2>Stats</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamunVerse&hide=css,blade,scss)](https://github.com/MamunVerse/github-readme-stats)
-
